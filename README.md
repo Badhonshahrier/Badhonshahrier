@@ -1,3 +1,8 @@
+
+# Hi, I'm Badhon Shahrier 👋  
+### 🌱 Full-Stack Web Developer | MERN Enthusiast
+
+
 # 💫 About Me:
 hi,i am badhon_shahrier
 
