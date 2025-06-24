@@ -12,7 +12,7 @@ I love creating web applications, exploring new technologies and contributing to
 - 👯 I’m looking to collaborate on MERN Stack Projects  
 - 💬 Ask me about JavaScript, React, Node.js  
 
-##🛠️ Skills
+
 
 ### 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
