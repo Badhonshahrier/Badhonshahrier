@@ -33,6 +33,9 @@ I love creating web applications, exploring new technologies and contributing to
 ![](https://github-readme-stats.vercel.app/api?username=Badhonshahrier&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Badhonshahrier&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Badhonshahrier&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Badhon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Badhonshahrier&theme=radical&no-frame=false&no-bg=true&margin-w=4)
