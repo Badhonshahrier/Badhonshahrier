@@ -4,7 +4,14 @@
 
 
 # 💫 About Me:
-hi,i am badhon_shahrier
+A passionate Full-Stack Developer from Bangladesh.  
+I love creating web applications, exploring new technologies and contributing to open-source.
+
+- 🔭 I’m currently working on a Food Sharing Platform  
+- 🌱 I’m exploring Next.js and GraphQL  
+- 👯 I’m looking to collaborate on MERN Stack Projects  
+- 💬 Ask me about JavaScript, React, Node.js  
+
 
 
 ## 🌐 Socials:
