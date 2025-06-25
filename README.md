@@ -1,4 +1,4 @@
-<img src="https://your-banner-image-link.com/banner.png" alt="Banner" />
+<img src="https://i.ibb.co/RXXkgwm/header-960w.png" alt="Banner" />
 
 # Hi, I'm Badhon Shahrier 👋  
 ### 🌱 Full-Stack Web Developer | MERN Enthusiast
