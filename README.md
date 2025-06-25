@@ -40,9 +40,9 @@ Full-Stack Developer from Bangladesh with a focus on building scalable, high-per
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp)](https://wa.me/8801767331349)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Badhonshahrier&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Badhonshahrier&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Badhonshahrier&theme=blue-green&hide_border=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Badhonshahrier&theme=radical&no-frame=false&no-bg=true&margin-w=4)
