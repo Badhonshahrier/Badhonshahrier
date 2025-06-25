@@ -12,7 +12,7 @@ Full-Stack Developer from Bangladesh with a focus on building scalable, high-per
 - 👯 I’m looking to collaborate on MERN Stack Projects  
 - 💬 Ask me about JavaScript, React, Node.js  
 
-## 🛠️ Languages and Tools:
+## 🛠️ Skills  and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
