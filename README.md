@@ -4,8 +4,8 @@
 ### 🌱 Full-Stack Web Developer | MERN Enthusiast
 
 ## 💫 About Me :
-A passionate Full-Stack Developer from Bangladesh.  
-I love creating web applications, exploring new technologies and contributing to open-source.
+
+Full-Stack Developer from Bangladesh with a focus on building scalable, high-performance web applications. Passionate about modern web technologies, clean code practices, and contributing to open-source. Dedicated to delivering elegant, user-focused solutions that enhance functionality, optimize performance, and create meaningful digital experiences.
 
 - 🔭 I’m currently working on a Food Sharing Platform  
 - 🌱 I’m exploring Next.js  
