@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/RXXkgwm/header-960w.png" alt="Banner" />
 
 # Hi, I'm Badhon Shahrier 👋  
-### 🌱 Full-Stack Web Developer | MERN Enthusiast
+### 🌱 Frontend Web Developer | MERN Enthusiast
 
 ## 💫 About Me :
 
