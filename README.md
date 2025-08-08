@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/Gqw1sgk/25-Sep2424-Simon-Pro-Upload-1.png" alt="Banner" />
+<img src="https://i.ibb.co.com/8gW5f6DS/Blue-Gradient-Modern-Linked-In-Banner.png" alt="Banner" />
 
 # Hi, I'm Shahrier Islam Badhon 👋  
 ### Frontend Web Developer || MERN Enthusiast
