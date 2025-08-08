@@ -51,8 +51,4 @@ I am a Frontend Developer specializing in creating accessible, responsive, and h
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Badhonshahrier&theme=blue-green&hide_border=true)<br/>
 
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Badhonshahrier&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
