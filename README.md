@@ -1,19 +1,24 @@
 <img src="https://i.ibb.co/RXXkgwm/header-960w.png" alt="Banner" />
 
-# Hi, I'm Badhon Shahrier 👋  
-### 🌱 Frontend Web Developer | MERN Enthusiast
+# Hi, I'm Shahrier Islam Badhon 👋  
+### 🌱 Frontend Web Developer || MERN Enthusiast
 
 ## 💫 About Me :
 
-Full-Stack Developer from Bangladesh with a focus on building scalable, high-performance web applications. Passionate about modern web technologies, clean code practices, and contributing to open-source. Dedicated to delivering elegant, user-focused solutions that enhance functionality, optimize performance, and create meaningful digital experiences.
+I am a Frontend Developer specializing in creating accessible, responsive, and high-performance web applications. I excel at transforming UI/UX designs into seamless, user-friendly interfaces while ensuring optimal functionality across devices. Passionate about continuous learning, I stay up-to-date with emerging technologies to deliver exceptional digital experiences.
 
-- 🔭 I’m currently working on a Food Sharing Platform  
-- 🌱 I’m exploring Next.js  
-- 👯 I’m looking to collaborate on MERN Stack Projects  
-- 💬 Ask me about JavaScript, React, Node.js  
+
+- I am exploring Next.js and server-side rendering.
+- I’m working on a Building Management System website (frontend & Backend).
+- I’m building a Food Sharing Web Platform to connect donors and receivers to sharing their excessive food.
+
+
+
 
 ## 🛠️ Skills  and Tools:
 
+
+💻 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
@@ -21,15 +26,18 @@ Full-Stack Developer from Bangladesh with a focus on building scalable, high-per
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=react-router)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css)
 ![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF69B4?style=for-the-badge&logo=daisyui)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva)
+
+⚙ Backend & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva)
+
 
 ## 🌐 Connect with me:
 
